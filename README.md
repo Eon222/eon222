@@ -2,7 +2,7 @@
 
 <p> Sou um estudante de tecnologia, atualmente cursando Ciências da Computação!</p>
 <p>Também estou fazendo alguns estudos base de tecnologias como:</p>
-<ul style="display:flex; flex-direction:row;">
+<ul style="display:flex;">
   <div>
     <li>JavaScript</li>
     <li>HTML</li>
