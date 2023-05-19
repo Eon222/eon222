@@ -2,7 +2,7 @@
 
 <p> Sou um estudante de tecnologia, atualmente cursando Ciências da Computação!</p>
 <p>Também estou fazendo alguns estudos base de tecnologias como:</p>
-<ul style>
+<ul style="display:flex; flex-direction:row;">
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
@@ -10,7 +10,7 @@
   <li>SQL</li>
 </ul>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eon222&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eon222&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
